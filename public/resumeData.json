@@ -1,16 +1,16 @@
 {
   "main": {
     "name": "Carl Erskine",
-    "occupation": "CEO of Erskine Media",
-    "description": "I eat, sleep and breathe React",
+    "occupation": "CEO of Light By Erskine ",
+    "description": "I eat, sleep and breathe Film",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "bio": "Hello, I’m a Filmmaker and gaffer based in Gothenburg, Sweden.I got a taste for film in highschool making short films and givingfinesse to school presentations.Following highschool I went to Santa Barbara, CA to study Film and Media. Here’s where I really got a feel for film making and working on set. Shooting, directing, editing and working on short films, many of which went to Cannes and other film festivals.",
+    "contactmessage": "Get in touch with me for more information",
     "email": "papareact.team@gmail.com",
     "phone": "+44 1234567899",
     "address": {
       "street": "123 Dev Lane",
-      "city": "London",
+      "city": "Gothenburg",
       "state": "Devosphere",
       "zip": "W3B D3V"
     },
@@ -45,42 +45,42 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Skills and attributes you can expect from me",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
+        "school": "Santa Barbara City College",
+        "degree": "Associates's degree in film and media production",
+        "graduated": "July 2015",
         "description": "Graduated with First Class Honours"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Brilliant Lightning",
+        "title": "Gaffer/Best boy",
+        "years": "2017 - Present",
+        "description": ""
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Lightning",
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Planning",
         "level": "85%"
       },
       {
-        "name": "Git",
+        "name": "Rigging",
         "level": "70%"
       },
       {
-        "name": "JavaScript",
+        "name": "Team Leadership",
         "level": "99%"
       },
       {
-        "name": "Web Development",
+        "name": "Grip",
         "level": "95%"
       }
     ]
