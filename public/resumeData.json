@@ -88,22 +88,23 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Daniela Rathana - Ansikte",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "thumbnail1.jpg",
+        "url": "https://www.youtube.com/watch?v=5LvBBb49foA&ab_channel=DanielaRathana"
       },
       {
         "title": "Gmail Clone (React JS)",
         "category": "",
         "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "url": "https://vimeo.com/476860764"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "VGR",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "thumbnail3.jpg",
+        "url": "https://vimeo.com/480879888"
+        
       }
     ]
   },
