@@ -56,11 +56,7 @@ header .banner {
    text-align: center;
 }
 
- .div-text {
-   text-align: center;
-   background-color: black;
-   opacity: 70%;
-}
+ 
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {

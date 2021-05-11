@@ -6,13 +6,13 @@
     "image": "profilepic.jpg",
     "bio": "Hello, I’m a Filmmaker and gaffer based in Gothenburg, Sweden.I got a taste for film in highschool making short films and givingfinesse to school presentations.Following highschool I went to Santa Barbara, CA to study Film and Media. Here’s where I really got a feel for film making and working on set. Shooting, directing, editing and working on short films, many of which went to Cannes and other film festivals.",
     "contactmessage": "Get in touch with me for more information",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "email": "carl-erskine@gmail.com",
+    "phone": "+46 1234567899",
     "address": {
-      "street": "123 Dev Lane",
+      "street": "123 Götagatan",
       "city": "Gothenburg",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "state": "Västra Götaland",
+      "zip": "433 21"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
@@ -24,24 +24,20 @@
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/carl.erskine",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/carl-erskine-91b82692/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/lightbyerskine/",
         "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
       }
+      
     ]
   },
   "resume": {
